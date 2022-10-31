@@ -1,6 +1,6 @@
 ## About Me
 
-I currently work at the Census Bureau, where I build machine learning and data science pipelines for analyzing User-generated feedback. 
+I currently work at Medwatchers Inc, where I build pipelines pharmaceutical data.    
 
 I graduated from UCSD with a B.S. in Cognitive Science with a Specialization in Machine Learning and Neural Computation. In college I focused mostly on Natural Language Processing techniques. 
 
