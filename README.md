@@ -1,3 +1,3 @@
 ## About Me
 
-Currently a Data Engineer at Medwatchers Inc   
+Data Engineer at Medwatchers Inc   
